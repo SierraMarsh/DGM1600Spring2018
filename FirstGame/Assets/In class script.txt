@@ -1,0 +1,21 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class FirstScript : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		
+	}                                                                                                                                                                 
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+}
+
+//Here is what I understand from class, which is not much but I am trying. I do see now what was said about this being english. I understand variable from already knowing 
+the language. So in a function like print, a variable is the changable part of the code. The thing that can be changed as a insert here type thing. So I can use  Int to 
+define a changing number to tell the user how much of something the player or a object in the code has. I could use names as a variable and once you define the name
+that object is know related to it. 
