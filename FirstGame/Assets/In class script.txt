@@ -19,3 +19,15 @@ public class FirstScript : MonoBehaviour {
 the language. So in a function like print, a variable is the changable part of the code. The thing that can be changed as a insert here type thing. So I can use  Int to 
 define a changing number to tell the user how much of something the player or a object in the code has. I could use names as a variable and once you define the name
 that object is know related to it. 
+
+//Here is what I understand of If statments. First i feel like i should mention that I feel like I understand alittle better because of my speach and debate years 
+where If-Than statements could make up a whole monolauge. Basiclly this type of programming is entirely based on setting conditions for certrain events. So you could have
+something happen only if a player meets certain conditions. A simple example would be if you had a character objects and said that if a player tries to talk to them and has 
+a certain object like a sword the character could print "nice sword."
+This is basically coniditional situations that have changes based on certian variables. 
+The book gives the coffee example. If your have a cup of coffee and it is above a certain temp you have the print say "Its too hot" and you cannot drink it
+if it is a good temperature then you can drink it
+if it is too cold it oculd print 'it is too cold." and ou cant drink it 
+
+So far all i have seen of it is simple variable changes with one line code changes but I imagine this is used to define every variable in games. Catalouging a players
+present self and running scenarios based on that
