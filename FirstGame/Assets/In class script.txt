@@ -31,3 +31,15 @@ if it is too cold it oculd print 'it is too cold." and ou cant drink it
 
 So far all i have seen of it is simple variable changes with one line code changes but I imagine this is used to define every variable in games. Catalouging a players
 present self and running scenarios based on that
+
+//Even Clauses So here is what I understand of Even Cluases, keeping in mind that we're thinking of If statments as branch off code that only appears if certain 
+conditions are true. If those conidtions are met or true that we get the branch off If statments
+If they are false that is where our even clause defualts the code too. So if it is raining the character can pull out an unbrella, they system will check and see if the code
+for rain is running, no its not so its a false statment and it will default to refusing to let you pull out your umbrella. 
+There is one example, lets simplify this. Lets say you are playing pokemon and you walk up to a character if its true you have your first pokemon you can do battle (that would
+be the branch code if statement) BUt we havent gotten to professor Oak yet so the code reads that this is a false statement and defaults to the main code that has you ignore 
+that character and move on.
+In a simple game it could be if they have clicked 10 times then print out that they clicked 10 times and if they havent the even clause will be "No clicks." because its the
+default. 
+
+but you havents seleted 
