@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -43,3 +43,24 @@ In a simple game it could be if they have clicked 10 times then print out that t
 default. 
 
 but you havents seleted 
+
+// I may need some extra help, I just bought C for dummies onlines. I'm pretty sure I have a rough idea how Operators work. They are the inbetween bits that tell you have the variables are interacting so Here is a sum up of what I know 
+void Start () {
+		public int A;
+		public int B;
+		public string Password = "Love"; 
+		
+	void Start () {
+		if (A > B && Password == "Love")
+This is a example saying If our variable is Greater than our second variable and if the password is love than- (And we havent scripted what to do yet.)
+
+The operator is defining how the two interact and then we would if even script for what happens.
+
+So the example we used in class is to amke a scriptable object and tell it that if our variable is = (that the operator) than we will do something
+
+if (A == B)
+
+{ 
+print "Code better"
+}
+
