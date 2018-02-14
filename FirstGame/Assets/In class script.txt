@@ -68,7 +68,8 @@ numbers [2] = 7;
 numbers [3] = 9;
 numbers [4] = 15;
 
-
+// Loops, which are related to arrays and helping them run effieciently by setting the paramiters in the array. They loop over the array and basically set these
+speicificaions in a box which can then be reused quickly. 
 
 
 
