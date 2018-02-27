@@ -44,3 +44,27 @@ void Greet()
 	//did Powerups where we made scriptable objects with abigger box script full of switches that tells out objects "if I am
 	// this than do this. So far we've only learned how to make things print but the idea is over arching. 
 }
+
+
+
+//We kind of skipped in class this section. I think I have a rough grasp on things but I think there really is no way to tell until we get going. 
+//This next section is For Loops This is what the instruction provides. 
+//For loops can define certain ints in relation to certain behaviors and define when certain parametere is set, which is the function of all loops.
+//This seems to be a shorter iteration with a very specific conditional for the program to work through. This program below (done by the video) would increase
+//the enemy number by 1 each run through.
+using UnityEngine;
+using System.Collections;
+
+public class ForLoop : MonoBehaviour
+{
+    int numEnemies = 3;
+    
+    
+    void Start ()
+    {
+        for(int i = 0; i < numEnemies; i++)
+        {
+            Debug.Log("Creating enemy number: " + i);
+        }
+    }
+}
