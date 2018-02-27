@@ -68,3 +68,32 @@ public class ForLoop : MonoBehaviour
         }
     }
 }
+
+
+
+//I am alittle unclear on function parameters but here we go. What I understand is that Function Parameters are defining values of objects. 
+//The point of the Parameters is that this duplicates our object and makes changes without detroying the original coded object.
+//So in this code we have a pre defined int of 20. The parameter states-
+
+static void Main(string[] args)
+{
+    int number = 20;
+    AddFive(number);
+    Console.WriteLine(number);
+    Console.ReadKey();
+}
+
+static void AddFive(int number)
+{
+    number = number + 5;
+}
+
+// So here we defined a int for our object and then ran the parameter that a function of AddFive will will apply to total and then print the new variable.
+//That way the int can be increaded every time the code is run. 
+
+
+
+
+
+
+
