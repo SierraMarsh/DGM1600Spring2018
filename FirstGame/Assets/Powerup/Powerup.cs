@@ -1,10 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 [CreateAssetMenu]
-public class TheIncredibles : ScriptableObject 
+public class Powerup : ScriptableObject 
 {
-
-public List<string> FamilyList;
+public int PowerLevel;
 }

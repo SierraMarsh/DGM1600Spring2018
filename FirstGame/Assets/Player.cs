@@ -1,9 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+[CreateAssetMenu]
+public class Player : ScriptableObject {
 
-public abstract class Powerupbase : ScriptableObject {
-
-public int PowerLevel;
-
+public int Health
 }
