@@ -11,7 +11,7 @@ public class VoidFuntions : MonoBehaviour {
 		//in other code, which i think is the most useful things we've learned so far. 
 		//So lets say we say
 
-		Public Void ReadyPlayerOne
+		//Public Void ReadyPlayerOne
 		//Do work
 
 		//Meaning that we now defined the voice function and after telling it what work to do we can then call that function at any point in out game. 

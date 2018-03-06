@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33572b32f7868054e962de3d1935a62c, type: 3}
   m_Name: High Level
   m_EditorClassIdentifier: 
-  PowerLevel: 0
+  PowerLevel: 100
