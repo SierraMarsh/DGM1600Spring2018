@@ -3,11 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
+public class Player : ScriptableObject {
 
-public class Powerup : ScriptableObject
-{
-public int Powerlevel = 100;
-public string Name = "Health";
-
-
+public int Health;
 }
