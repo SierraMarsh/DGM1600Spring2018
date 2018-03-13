@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -19,6 +19,13 @@ public class VoidFuntions : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		
+		//3/8/2018 Lets talk Scope and access modifiers. THese tell the game how much access the public or players have to your data. Public means
+		//what you are coding can be found easily while privet means it cant be seen and stays in your code. These are 
+		//defining characteristics that tell your code how to be precived by other people. THese are public, protected, internal and private.
+		//so lets talk scripting use. We have a function that we want to keep to ourselves. We could write Private void Personal
+		
+		
 		
 	}
 }
