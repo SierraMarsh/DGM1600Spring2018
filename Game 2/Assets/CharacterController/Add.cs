@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
 public class Add : Calculation {
-	aNum = float.Parse(a);
-	bNum = float.Parse(b);
+	Start void Calculation
+	aNum == float.Parse(a);
+	bNum == float.Parse(b);
 
 			return aNum + bNum;
 	
@@ -13,4 +14,4 @@ public class Add : Calculation {
 	
 
 
-}
+
