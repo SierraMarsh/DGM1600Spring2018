@@ -14,6 +14,7 @@ public class MovePattern : ScriptableObject {
 public void Move(CharacterController controller, Transform mytransform)
 {
 	 if (controller.isGrounded) {
+
             moveDirection.x = Inputx.SetFloat();
             moveDirection.z = Inputz.SetFloat();
             moveDirection.y = Inputy.SetFloat();
