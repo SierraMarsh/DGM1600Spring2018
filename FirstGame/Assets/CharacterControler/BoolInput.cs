@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu(fileName = "BoolInput")]
-public class BoolInput : Inputbase 
+public class BoolInput : InputBace 
 {
 	public string InputName = "Jump";
 	public float FloatValue = 1;
