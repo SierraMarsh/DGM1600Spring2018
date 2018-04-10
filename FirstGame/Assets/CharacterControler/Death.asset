@@ -8,7 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6f8b201c866ee84b94f2499a78c050e, type: 3}
-  m_Name: Vertical
+  m_Script: {fileID: 11500000, guid: 0cfd2c9ac024ed64ca3c0f34415a2cc5, type: 3}
+  m_Name: Death
   m_EditorClassIdentifier: 
-  InputName: Vertical
+  PowerLevel: 0
+  MovePattern: {fileID: 0}
