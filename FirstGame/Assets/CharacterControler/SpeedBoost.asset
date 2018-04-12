@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Name: SpeedBoost
   m_EditorClassIdentifier: 
   PowerLevel: 0
-  MovePattern: {fileID: 0}
+  MovePattern: {fileID: 11400000, guid: 66c4dc9af4483b04e839dd7c5ffea85f, type: 2}

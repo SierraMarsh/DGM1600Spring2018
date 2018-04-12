@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Name: Death
   m_EditorClassIdentifier: 
   PowerLevel: 0
-  MovePattern: {fileID: 0}
+  MovePattern: {fileID: 11400000, guid: 7746418b3a276664d9c36d1c5b1a99ee, type: 2}

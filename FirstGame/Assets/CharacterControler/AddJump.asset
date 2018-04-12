@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cfd2c9ac024ed64ca3c0f34415a2cc5, type: 3}
   m_Name: AddJump
   m_EditorClassIdentifier: 
-  PowerLevel: 0
+  PowerLevel: 20
   MovePattern: {fileID: 0}
