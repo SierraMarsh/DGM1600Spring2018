@@ -15,7 +15,7 @@ public class Trigger : MonoBehaviour {
 		
 
 	
-        obj.GetComponent<MoveCharacter>().MovePattern = Powerup.MovePattern;
+        obj.GetComponent<MoveCharacter>().Player.MovePattern = Powerup.MovePattern;
 		gameObject.SetActive(false);
 	
 	}
