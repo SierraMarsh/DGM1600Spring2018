@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
-{CreateAssestMenu}
+using UnityEngine;[
+	[CreateAssestMenu]
 public class Player : ScriptableObject {
 
 

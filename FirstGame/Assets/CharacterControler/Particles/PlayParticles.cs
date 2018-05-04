@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayParticles : MonoBehaviour {
 	public ParticleSystem ParticleSystem;
-	private void private void OnTriggerEnter(Collider other)
+	private void OnTriggerEnter(Collider other)
 	{
 		ParticleSystem.emit(100);
 	}
